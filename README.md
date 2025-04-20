@@ -54,7 +54,7 @@ Below is a screenshot of the Daniels Portfolio homepage:
 
 ## Live Demo
 
-You can view a live demo of the portfolio site [here](https://eng-ahmed-hussien.github.io/Daniels-Portfolio/).  
+You can view a live demo of the portfolio site [**here**](https://eng-ahmed-hussien.github.io/Daniels-Portfolio/).  
 
 ## Notes
 
